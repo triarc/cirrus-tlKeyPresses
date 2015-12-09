@@ -1,10 +1,9 @@
 {
   "name": "cirrus-tlKeyPresses",
   "version": "0.0.6",
-  "authors": [
-    "Marco Bachmann <mb@triarc-labs.com>"
+  "main": [
+    "tlKeyPresses.js"
   ],
-  "main": "tlKeyPresses.js",
   "moduleType": [
     "globals"
   ],
